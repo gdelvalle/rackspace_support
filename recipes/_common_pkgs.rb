@@ -23,6 +23,7 @@ common_pkgs = %w(
   screen
   tmux
   curl
+  tcpdump
   telnet
   traceroute
   mtr
